@@ -1,0 +1,22 @@
+.header__container {
+  display: flow-root;
+}
+
+.header {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.header__logo {
+  float: left;
+}
+
+.header__navigation {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.header__search {
+  position: relative;
+  float: right;
+}

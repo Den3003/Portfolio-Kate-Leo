@@ -1,0 +1,30 @@
+.hero {
+  padding: 20px 0;
+}
+
+.hero__picture {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../image/main/kate-leo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  padding-top: 302px;
+  padding-bottom: 302px;
+  border-top-right-radius: 150px;
+  border-bottom-left-radius: 150px;
+}
+
+.hero__title {
+  font-size: 100px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffb822;
+  margin: 0 0 36px;
+}
+
+.hero__subtitle {
+  font-size: 40px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0;
+}

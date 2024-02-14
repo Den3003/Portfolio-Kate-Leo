@@ -1,0 +1,24 @@
+.search__input {
+  background-color: inherit;
+  font-size: 22px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 3px solid #9965e3;
+}
+
+.search__input::placeholder {
+  font-size: 22px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #cccccc;
+}
+
+.search__button {
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  background-color: inherit;
+  border: none;
+}
+
+
